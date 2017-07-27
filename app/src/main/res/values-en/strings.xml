@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alien Calendar</string>
+    <string name="anos">Years</string>
+    <string name="data">Date</string>
+    <string name="diaInputado">01/01/2000</string>
+    <string name="diasBotao">Days</string>
+    <string name="diasTexto">Days</string>
+    <string name="horario">Time</string>
+    <string name="horasTexto">Hours</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="marte">Mars</string>
+    <string name="mercurio">Mercury</string>
+    <string name="nascimento">Birthday on Earth</string>
+    <string name="netuno">Neptune</string>
+    <string name="planeta">Planet</string>
+    <string name="saturno">Saturn</string>
+    <string name="urano">Uranus</string>
+    <string name="venus">Venus</string>
+</resources>

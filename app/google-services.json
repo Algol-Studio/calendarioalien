@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "347390996105",
+    "firebase_url": "https://nosadamos.firebaseio.com",
+    "project_id": "nosadamos",
+    "storage_bucket": "nosadamos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347390996105:android:865d333bda734fc1",
+        "android_client_info": {
+          "package_name": "com.algolstudio.idadealienigena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347390996105-3eq4oq7dunvjuau402tt20aj3qb5oabi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.algolstudio.idadealienigena",
+            "certificate_hash": "8d69f54569d7517e1b9bdc3e341337f027667fc7"
+          }
+        },
+        {
+          "client_id": "347390996105-uarrp1lm8uaajjbd48j33guhiehl9avo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTkops6HQIz-B7v5s077EunYkx1RPeM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347390996105-uarrp1lm8uaajjbd48j33guhiehl9avo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calendário Alienigena</string>
+    <string name="data">Data</string>
+    <string name="marte">Marte</string>
+    <string name="diasBotao">Dias</string>
+    <string name="jupiter">Júpiter</string>
+    <string name="horario">Horário</string>
+    <string name="mercurio">Mercúrio</string>
+    <string name="saturno">Saturno</string>
+    <string name="nascimento">Nascimento na Terra</string>
+    <string name="urano">Urano</string>
+    <string name="venus">Vênus</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2200307858949377/6249522241</string>
+    <string name="resultado" translatable="false">0</string>
+    <string name="resultadoMes" translatable="false">0</string>
+    <string name="resultadoSemana" translatable="false">0</string>
+    <string name="resultadoHora" translatable="false">0</string>
+    <string name="resultadoMinuto" translatable="false">0</string>
+    <string name="resultadoSegundo" translatable="false">0</string>
+    <string name="horaInputada" translatable="false">00:00</string>
+    <string name="diaInputado">01/01/2000</string>
+    <string name="diasTexto">Dias</string>
+    <string name="horasTexto">Horas</string>
+    <string name="mesesTexto" translatable="false">Meses</string>
+    <string name="minutosTexto" translatable="false">Minutos</string>
+    <string name="segundosTexto" translatable="false">Segundos</string>
+    <string name="semanasTexto" translatable="false">Semanas</string>
+    <string name="netuno">Netuno</string>
+    <string name="anos">Anos</string>
+    <string name="planeta">Planeta</string>
+</resources>
